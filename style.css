@@ -4,6 +4,7 @@
     --font_family1:'Inter', sans-serif;
 
     --font_family2:'Lexend Deca', sans-serif;
+    --font_base:'arial';
 }
 body{
     display:flex;
